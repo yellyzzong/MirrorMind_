@@ -1,1 +1,2 @@
 # MirrorMind_
+This app is a conversational platform where users can create AI-powered digital clones or personas of real people and observe or particpate in stimulated interactions between these virtual representations.
